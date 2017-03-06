@@ -5,6 +5,7 @@ package crud.unlocked.inboxgmail.model;
  */
 
 public class Message {
+
     private int id;
     private String from;
     private String subject;
